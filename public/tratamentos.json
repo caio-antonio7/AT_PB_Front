@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nome": "Limpeza de Pele Profunda",
+    "descricao": "Remoção de impurezas e cravos com produtos dermatológicos.",
+    "preco": 120,
+    "duracao": "60 min"
+  },
+  {
+    "id": 2,
+    "nome": "Massagem Relaxante",
+    "descricao": "Massagem corporal completa para alívio de tensão.",
+    "preco": 150,
+    "duracao": "50 min"
+  }
+]
